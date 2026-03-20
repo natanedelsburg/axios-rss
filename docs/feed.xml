@@ -5,7 +5,7 @@
     <description>Axios Communicators newsletter - archived RSS feed</description>
     <link>https://www.axios.com/newsletters/axios-communicators</link>
     <atom:link href="https://natanedelsburg.github.io/axios-rss/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 20 Mar 2026 05:13:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 08:36:09 +0000</lastBuildDate>
     <generator>axios-rss-archiver</generator>
   </channel>
 </rss>
