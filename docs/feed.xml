@@ -5,7 +5,7 @@
     <description>Axios Communicators newsletter - archived RSS feed</description>
     <link>https://www.axios.com/newsletters/axios-communicators</link>
     <atom:link href="https://natanedelsburg.github.io/axios-rss/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 09 Apr 2026 20:43:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 17:10:11 +0000</lastBuildDate>
     <generator>axios-rss-archiver</generator>
     <item>
       <title>Your feedback matters to us</title>
@@ -2611,6 +2611,854 @@ Was this email forwarded to you?&lt;br&gt;
 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
 &lt;/div&gt;
 &lt;a style="color: #f5f5f5" href=https://link.axios.com/oc/69bc8cf845e1867b3a0e6da6qvi4w.1tji/b7969531&gt; &lt;/a&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+              
+                &lt;hr /&gt;
+                &lt;p&gt;
+                  &lt;small&gt;
+                    &lt;a
+                      href="https://kill-the-newsletter.com/feeds/wp2whqxolhhcc27ve7v4"
+                      &gt;Kill the Newsletter! feed settings&lt;/a
+                    &gt;
+                  &lt;/small&gt;
+                &lt;/p&gt;
+              
+            </description>
+    </item>
+    <item>
+      <title>❌ AI's perception problem</title>
+      <link>https://kill-the-newsletter.com/feeds/wp2whqxolhhcc27ve7v4/entries/ktkqum893wcwpk5ycwh8.html</link>
+      <guid isPermaLink="false">urn:kill-the-newsletter:ktkqum893wcwpk5ycwh8</guid>
+      <pubDate>Thu, 16 Apr 2026 16:10:21 +0000</pubDate>
+      <description>
+              &lt;!doctype html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html;charset=UTF-8" /&gt;
+&lt;meta http-equiv="X-UA-Compatible" content="chrome=1" /&gt;
+&lt;meta property="og:title" content="Axios Communicators" /&gt;
+&lt;meta property="og:image" content="https://static.axios.com/img-email/socialcard_axiosmarkets3.jpg" /&gt;
+&lt;meta property="og:description" content="A weekly look at the topics and trends important to communicators. With Eleanor Hawkins. Weekly - Sundays" /&gt;
+&lt;meta name="twitter:card" content="summary_large_image" /&gt;
+&lt;meta name="twitter:title" content="Axios Communicators" /&gt;
+&lt;meta name="twitter:description" content="A weekly look at the topics and trends important to communicators. With Eleanor Hawkins. Weekly - Sundays" /&gt;
+&lt;meta property="twitter:image" content="https://static.axios.com/img-email/socialcard_axiosmarkets3.jpg" /&gt;
+&lt;meta name="format-detection" content="telephone=no"&gt;
+&lt;meta name="format-detection" content="date=no"&gt;
+&lt;meta name="format-detection" content="address=no"&gt;
+&lt;meta name="format-detection" content="email=no"&gt;
+&lt;meta name="st-public-url" content="https://link.axios.com/public/45242683"&gt;
+&lt;style type="text/css"&gt;
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+border-bottom: none !important;
+}
+@font-face {
+font-family: 'atizatext';
+src: url('https://static.axios.com/fonts/atizatext-regular-webfont.eot');
+src: url('https://static.axios.com/fonts/atizatext-regular-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/atizatext-regular-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/atizatext-regular-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/atizatext-regular-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/atizatext-regular-webfont.svg#atizatext') format('svg');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'atizabold';
+src: url('https://static.axios.com/fonts/atizatext-bold-webfont.eot');
+src: url('https://static.axios.com/fonts/atizatext-bold-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/atizatext-bold-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/atizatext-bold-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/atizatext-bold-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/atizatext-bold-webfont.svg#atizatext') format('svg');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'gordita';
+src: url('https://static.axios.com/fonts/gorditaregular-webfont.eot');
+src: url('https://static.axios.com/fonts/gorditaregular-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/gorditaregular-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/gorditaregular-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/gorditaregular-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/gorditaregular-webfont.svg#gorditaregular') format('svg');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'gorditamedium';
+src: url('https://static.axios.com/fonts/gorditamedium-webfont.eot');
+src: url('https://static.axios.com/fonts/gorditamedium-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/gorditamedium-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/gorditamedium-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/gorditamedium-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/gorditamedium-webfont.svg#gorditamedium') format('svg');
+font-weight: 500;
+font-style: normal;
+}
+@font-face {
+font-family: 'gorditabold';
+src: url('https://static.axios.com/fonts/gorditabold-webfont.eot');
+src: url('https://static.axios.com/fonts/gorditabold-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/gorditabold-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/gorditabold-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/gorditabold-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/gorditabold-webfont.svg#gorditabold') format('svg');
+font-weight: 500;
+font-style: normal;
+}
+&lt;/style&gt;
+&lt;style type="text/css"&gt;
+p {
+margin-top: 0px;
+margin-bottom: 1em;
+}
+p strong {
+font-family: Georgia, serif;
+font-weight: 700;
+}
+.main-header,
+.bodytext {
+font-family: Arial, Helvetica, sans-serif;
+}
+.figcaption {
+color: #848484;
+font-size: 13px;
+font-family:'Gordita',Arial,Helvetica,sans-serif!important;
+margin-bottom: 20px;
+}
+.figcaption + blockquote {
+margin-top: 20px;
+margin-left: 40px;
+}
+.post-text a {
+border-bottom: 1px solid #008dc8;
+text-decoration: none;
+}
+.post-text a:hover {
+color: #008dc8;
+}
+.post-text ul li {
+margin-bottom: 10px;
+}
+a {
+color: #222222;
+}
+.hq-cta a {
+border-bottom: 1px solid #008dc8;
+text-decoration: none;
+}
+.hq-cta a:hover {
+color: #008dc8;
+}
+.gmailfix {
+display:none;
+display:none!important;
+}
+.card-byline {
+text-decoration: underline !important;
+font-size:13px!important;
+font-family:'Gordita',Arial,Helvetica,sans-serif!important;
+color:#333335 !important;
+}
+.card-byline:hover {
+text-decoration: underline;
+}
+@media (max-width: 600px) {
+.hed {
+font-size: 26px !important;
+-webkit-text-size-adjust: 100%;
+}
+.main-header {
+font-size: 34px !important;
+}
+.post-text {
+font-size: 17px !important;
+-webkit-text-size-adjust: none !important;
+}
+.hq-cta{
+padding: 16px !important;
+}
+.hq-cta img{
+width:64px !important;
+}
+.hq-cta-text-header{
+display:block;
+font-size: 14px !important;
+line-height:17.5px !important;
+-webkit-text-size-adjust: 100%;
+}
+.hq-cta-text-body{
+display:block;
+margin-top:8px !important;
+line-height:13.75px !important;
+font-size: 11px !important;
+-webkit-text-size-adjust: 100%;
+}
+}
+div &gt; u + .body .gmail{
+display: initial !important;
+}
+&lt;/style&gt;
+&lt;link href="https://fonts.googleapis.com/css?family=PT+Mono&amp;display=swap" rel="stylesheet"&gt;
+&lt;!--[if mso]&gt;
+&lt;style type="text/css"&gt;
+.bodytext, .main-header  {font-family: Arial, Helvetica, Helvetica, sans-serif !important;}
+.post-text {font-family: Georgia, Palatino Linotype, serif !important;}
+.ol-adpad {padding-bottom: 10px !important;}
+a {color: #222222; text-decoration:underline !important;}
+&lt;/style&gt;
+&lt;![endif]--&gt;
+&lt;!--[if gte mso 7]&gt;&lt;xml&gt;
+&lt;o:OfficeDocumentSettings&gt;
+&lt;o:AllowPNG/&gt;
+&lt;o:PixelsPerInch&gt;96&lt;/o:PixelsPerInch&gt;
+&lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body style="background-color: #f5f5f5; margin: 0 auto; padding: 0; text-align: center;" class="body"&gt;
+&lt;div style="display:none;font-size:1px;color:#222222;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;"&gt;
+🥤Plus: DoorDash grandma | Thursday, April 16, 2026
+&lt;/div&gt;
+&lt;table cellpadding="0" cellspacing="0" width="100%" style="background-color: #f6f6f6;text-align: center"&gt;
+&lt;tr&gt;
+&lt;td style="max-width: 600px;"&gt;
+&lt;!--[if mso]&gt;
+&lt;table style="width:600px;"&gt;&lt;tr&gt;&lt;td&gt;
+&lt;![endif]--&gt;
+&lt;table style="max-width: 600px; width: 100%; margin: 0 auto; text-align: left; background: #fff;" cellspacing="0" cellpadding="0"&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 20px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top;"&gt;
+&lt;table cellspacing="0" cellpadding="0" width="100%"&gt;
+&lt;tr&gt;
+&lt;td style="padding-left: 3.5%"&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Bee5c7e7e" title="AXIOS" target="_blank"&gt;&lt;img src="https://static.axios.com/img-email/axios-retina.png" alt="Axios" width="83" border="0"/&gt;&lt;/a&gt;  &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cDovL3d3dy5heGlvcy5jb20_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6Bd5bde5a1"&gt;&lt;img src="https://link.axios.com/img/69bc8cf845e1867b3a0e6da6qxph7.1r18/aa1cfa26.gif" alt="" border="0" /&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style="padding-right: 3.5%;" align="right"&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtNWZkOWQxODAtMzRlZC0xMWYxLThhMTEtM2IzYjU3YzgxMzZjLmh0bWw_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B91b41370" target="_blank" class="bodytext" style="color: #222222; font-size: 13px; font-family: 'gordita', Arial, Helvetica, sans-serif;text-decoration:underline;"&gt;View in browser&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="30" style="height: 30px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; line-height: 1.3;"&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="16" style="height: 16px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; line-height: 1;"&gt;
+&lt;span class="main-header" style="font-size: 44px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #008dc8; letter-spacing: -1px; line-height: 1;"&gt;Axios Communicators&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; line-height: 1.5; padding-bottom:35px;padding-top:10px;"&gt;
+&lt;span class="bodytext"  style="font-size: 13px; color: #222222; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; "&gt;By
+Eleanor Hawkins
+&lt;span style="margin: 0 6px;"&gt;&amp;middot;&lt;/span&gt;
+Apr 16, 2026
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px; padding: 0 3.5%;"&gt;
+&lt;p&gt;&lt;strong&gt;Welcome back! &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;🇺🇸 Are you&lt;/strong&gt; &lt;strong&gt;in D.C. for WHCD?&lt;/strong&gt; Join us for a brunch reception on April 24, where I will speak with Reddit CCO Adam Collins about AI's impact on the information and media landscape and more. &lt;a href="https://link.axios.com/click/45139856.14431/aHR0cHM6Ly9heGlvc3dpbm5pbmdpbmZsdWVuY2VpbmZvcm1hdGlvbmFpZXJhLWludGVyZXN0LnNwbGFzaHRoYXQuY29tLz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/628251ac30c888840206c912B0359fe58" target="_blank"&gt;&lt;em&gt;Register here&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;⛵ &lt;strong&gt;Plus:&lt;/strong&gt; Join us for &lt;strong&gt;Axios House Cannes&lt;/strong&gt;, this year on yacht row. During four days aboard Axios House, we'll be hosting a series of captivating conversations with the biggest names in media, entertainment, sports and communications. &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly9zaWdudXBmb3J1cGRhdGVzLWF4aW9zaG91c2UtY2FubmVzMjAyNi5zcGxhc2h0aGF0LmNvbS8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B5cadb972" target="_blank"&gt;&lt;strong&gt;&lt;em&gt;Sign up for updates&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;Today's newsletter, edited by Christine Wang and copy edited by Kathie Bozanich, is 1,497 words, 5.5 minutes.&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5% 10px; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;"&gt;
+1 big thing: AI&amp;#x27;s narrative crescendo 
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;img src="https://images.axios.com/3Nkx4GCkAQub2J8HCvBv-C3BQTM=/0x0:1280x720/2026/04/07/1775596472624.gif" width="600" style="width:100%" id="item02" alt="Animated illustration of a binary code filling the frame. Some of the code expands and glows to reveal the shape of a skull and crossbones."&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 0 3.5%; line-height: 1.3;"&gt;
+&lt;span class="bodytext" style="font-size: 13px; color: #848484;"&gt;
+&lt;p&gt;Illustration: Brendan Lynch/Axios&lt;/p&gt;
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="15" style="height: 15px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;p&gt;&lt;strong&gt;"Now I am awake&lt;/strong&gt; in the middle of the night and pissed, and thinking that I have underestimated the power of words and narratives," OpenAI CEO Sam Altman &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly9ibG9nLnNhbWFsdG1hbi5jb20vP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6B5c92d503" target="_blank"&gt;wrote in a blog post&lt;/a&gt; over the weekend, following an &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2xvY2FsL3Nhbi1mcmFuY2lzY28vMjAyNi8wNC8xNC9zZi1haS1iYWNrbGFzaC12aW9sZW5jZS1zYW0tYWx0bWFuLWF0dGFja3Mtb3BlbmFpLXZpZ2lsYW50ZS1qdXN0aWNlLWZlYXI_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B48d71933" target="_blank"&gt;arson attack&lt;/a&gt; on his home. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; The narrative around artificial intelligence — and those who are viewed as controlling it — has reached &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMTMvYWktZWxpdGUtdnMtYWktc2tlcHRpYy1kb29tZXI_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B222ce3d8" target="_blank"&gt;a crescendo&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;State of play: &lt;/strong&gt;Protests in Washington, D.C., San Francisco and in communities targeted for new data centers are becoming more common.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;On Monday, the man arrested for allegedly throwing a Molotov cocktail at Altman's home was charged with attempted murder. He was planning to harm other AI executives, board members and investors, &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly9zdG9yYWdlLmNvdXJ0bGlzdGVuZXIuY29tL3JlY2FwL2dvdi51c2NvdXJ0cy5jYW5kLjQ2NzcxNC9nb3YudXNjb3VydHMuY2FuZC40Njc3MTQuMS4wLnBkZj91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B5427614b" target="_blank"&gt;according to&lt;/a&gt; court documents. &lt;/li&gt;&lt;li&gt;In Indianapolis last week, a legislator said his home was &lt;a href="https://link.axios.com/click/45175318.72323/aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vcG9saXRpY3MvcG9saXRpY3MtbmV3cy9pbmRpYW5hcG9saXMtY291bmNpbG1hbi1zYXlzLXNob3RzLWZpcmVkLWhvdXNlLW5vLWRhdGEtY2VudGVycy1ub3RlLXJjbmEyNjcwMjM_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/628251ac30c888840206c912B3b41f852" target="_blank"&gt;hit by gunfire&lt;/a&gt;, with a note left behind saying "No Data Centers."&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Between the lines: &lt;/strong&gt;At the center of AI's perception problem are three of AI's most influential voices — Altman, Anthropic's Dario Amodei and Google's Sundar Pichai — each advancing a different framing of what AI is and what it means.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Altman &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly9ibG9nLnNhbWFsdG1hbi5jb20vP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6C5c92d503" target="_blank"&gt;has compared&lt;/a&gt; AI to the "ring of power" but has also positioned the technology as an inevitable transformative force like electricity or the internet. He's been blunt about the rapid pace of progress and the benefits AI could bring if society "&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDI1LzA4LzIyL3NhbS1hbHRtYW4tcGFyZW50aW5nLXJhaXNpbmctY2hpbGQtYmV0dGVyLWRlY2lzaW9ucy1odW1hbml0eS8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6Bfcb72b80" target="_blank"&gt;gets it right&lt;/a&gt;."&lt;/li&gt;&lt;li&gt;Amodei has adopted the most safety-focused stance among major AI leaders, emphasizing risk, strict guardrails and worst-case scenarios. But some &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL3RlY2hub2xvZ3kvMjAyNi9hcHIvMTMvYWktdGVjaC1tYXJrZXRpbmc_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B6379b65f" target="_blank"&gt;critics argue&lt;/a&gt; that Anthropic's more dramatic claims rely on limited evidence and serve more as narrative framing than reality.&lt;/li&gt;&lt;li&gt;Pichai, in a recent "60 Minutes" &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1QVG1MS2ZXandFbyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B981bfb7a" target="_blank"&gt;appearance&lt;/a&gt;, took a more measured tone, framing AI as an extension of existing products that are gradually being  integrated into daily life. He avoids sweeping predictions, instead selling normalization and positioning AI as a manageable evolution.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;The big picture: &lt;/strong&gt;The future of AI will be shaped as much by Washington and public opinion as in the lab.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The question is whether the industry coalesces around a shared narrative and policy agenda that can influence both regulators and the broader public.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;What to watch&lt;/strong&gt;:&lt;strong&gt; &lt;/strong&gt;Every CEO at every company is navigating how to integrate AI into core operations and how to explain that shift to employees, investors and customers.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The gap between executive optimism and public anxiety is forcing companies to sharpen their messaging on jobs, altered operations and long-term impact.&lt;/li&gt;&lt;li&gt;AI strategy is now inseparable from AI narrative, and missteps in either can carry reputational risk.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;Case in point ... 👇🏻&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 20px 3.5% 25px 3.5%;"&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8xNi9haS1pbmR1c3RyeS1uYXJyYXRpdmUtYWx0bWFuLWFtb2RlaS1waWNoYWk_dXRtX3Rlcm0lM0RmYnNvY2lhbHNoYXJlJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Be28db4d4"
+style="display: inline-block;"&gt;&lt;img width="32" height="32" style="border: none" target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
+alt="Share on Facebook"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1BSSUyMGJhY2tsYXNoJTIwZ3Jvd3MlMjBhcyUyMGluZHVzdHJ5JTIwc3BsaXRzJTIwb24lMjBob3clMjB0byUyMHRlbGwlMjBpdHMlMjBzdG9yeSZoYXNodGFncz1heGlvc2NvbW11bmljYXRvcnMmdXJsPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI2LzA0LzE2L2FpLWluZHVzdHJ5LW5hcnJhdGl2ZS1hbHRtYW4tYW1vZGVpLXBpY2hhaT91dG1fdGVybSUzRHR3c29jaWFsc2hhcmUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B4dfbbe75"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
+alt="Tweet this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMTYvYWktaW5kdXN0cnktbmFycmF0aXZlLWFsdG1hbi1hbW9kZWktcGljaGFpP3V0bV90ZXJtJTNEbGlzb2NpYWxzaGFyZSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6Ba24dadad"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
+alt="Post to LinkedIn"&gt;&lt;/a&gt;
+&lt;a href="mailto:?subject=From Axios: AI backlash grows as industry splits on how to tell its story&amp;body=wp2whqxolhhcc27ve7v4%40kill-the-newsletter.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AAI backlash grows as industry splits on how to tell its story%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F04%2F16%2Fai-industry-narrative-altman-amodei-pichai%3Futm_term%3Demshare"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
+alt="Email this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMTYvYWktaW5kdXN0cnktbmFycmF0aXZlLWFsdG1hbi1hbW9kZWktcGljaGFpP3V0bV90ZXJtPXNtc3NoYXJlJnNtc3NoYXJlPXRydWUmbmFtZT1BeGlvcyUyMENvbW11bmljYXRvcnMmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B9e9ae48c"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
+alt="Text this Story"&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5% 10px; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;"&gt;
+2. Corporate AI adoption gets real
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 0 3.5% 10px; line-height: 1.5;"&gt;
+&lt;span class="bodytext" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335"&gt;
+By &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2F1dGhvcnMvZXBlY2s_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B7b9ed247" class="card-byline" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335"&gt;Emily Peck&lt;/a&gt;
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;!--[if mso]&gt;&lt;img alt='A column chart that shows the number of S&amp;P 500 companies discussing quantifiable AI impact each quarter from Q1 2023 to Q1 2026. Mentions rose from 18 to 122, with dips to 28 in Q4 2023 and 49 in Q4 2024 before accelerating through 2025.' src='https://graphics.axios.com/hermesv2/2026-04-14-1432-s-p-500-companies/fallbacks/2026-04-14-1432-s-p-500-companies-fallback.png' style='max-width: 100%;' width='558' /&gt;&lt;![endif]--&gt;&lt;!--[if !mso]&gt;&lt;!--&gt;&lt;img alt="A column chart that shows the number of S&amp;amp;P 500 companies discussing quantifiable AI impact each quarter from Q1 2023 to Q1 2026. Mentions rose from 18 to 122, with dips to 28 in Q4 2023 and 49 in Q4 2024 before accelerating through 2025." src="https://graphics.axios.com/hermesv2/2026-04-14-1432-s-p-500-companies/fallbacks/2026-04-14-1432-s-p-500-companies-fallback.png" style="max-width: 100%;" width="100%"/&gt;&lt;!--&lt;![endif]--&gt;&lt;div class="bodytext" style="font-size:13px; font-family:'Gordita',Arial,Helvetica,sans-serif; color:#848484; margin-bottom:20px;"&gt;Data: Morgan Stanley; Chart: Emily Peck/Axios&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Companies are starting to talk&lt;/strong&gt; more about the real, quantifiable things they're doing with &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL3RlY2hub2xvZ3kvYXV0b21hdGlvbi1hbmQtYWk_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6Bb875c686" target="_blank"&gt;AI&lt;/a&gt;: from designing new toys to writing marketing copy, according to a new analysis of investor earnings calls.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; It was just a few years ago that many companies paid lip service to AI — now they're offering tangible details.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The latest:&lt;/strong&gt; One-quarter of the companies in the S&amp;amp;P 500 mentioned at least one quantifiable impact from AI in the first three months of 2026 — up from 13% in the same period in 2025, according to a report Tuesday from Morgan Stanley, which used AI to analyze transcripts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;By the numbers:&lt;/strong&gt; 42% of tech companies highlighted tangible benefits. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;In second place is finance, with 40% of companies citing AI, up from 15% the year before.&lt;/li&gt;&lt;li&gt;Communications services ranked third.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;The big picture:&lt;/strong&gt; The pace of AI adoption is crazy fast, quicker than internet adoption around the turn of the millennium. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Even as geopolitics and uncertainty ramp up, AI remains the story for investors. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Zoom in: &lt;/strong&gt;The report includes examples like toymaker Hasbro, which says it is using AI-assisted design to reduce "time from concept to physical prototype by roughly 80%." The company says humans still determine what products to make.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bank of America said using AI "saves us about 2,000 people" who would typically write code. CEO &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2xvY2FsL2NoYXJsb3R0ZS8yMDI2LzAxLzE2L2JhbmstYW1lcmljYS13ZWxscy1mYXJnby1haS1qb2ItY3V0cz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B17234675" target="_blank"&gt;Brian Moynihan&lt;/a&gt; spoke in January about letting "headcount drift down," thanks to AI.&lt;/li&gt;&lt;li&gt;Tobacco company Altria highlighted a 50% reduction in the time required to create marketing content.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Reality check: &lt;/strong&gt;This is still in the early stages. 75% of companies didn't cite quantifiable benefits, per Morgan Stanley. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;And this is a subjective analysis. A similar one from Goldman Sachs, released last month, found only 10% of S&amp;amp;P 500 firms noted AI's impact in specific use cases. About half discussed AI "in the context of productivity." &lt;/li&gt;&lt;li&gt;However, analyst Ronnie Walker did find 70% of firms were talking about AI.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMTUvYWktY29tcGFuaWVzLXNwLTUwMD91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B67004403" target="_blank"&gt;Keep reading&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 20px 3.5% 25px 3.5%;"&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8xNS9haS1jb21wYW5pZXMtc3AtNTAwP3V0bV90ZXJtJTNEZmJzb2NpYWxzaGFyZSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6Cedcf5ff2"
+style="display: inline-block;"&gt;&lt;img width="32" height="32" style="border: none" target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
+alt="Share on Facebook"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1Db3Jwb3JhdGUlMjBBSSUyMGFkb3B0aW9uJTIwaXMlMjBnZXR0aW5nJTIwcmVhbCZoYXNodGFncz1heGlvc2NvbW11bmljYXRvcnMmdXJsPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI2LzA0LzE1L2FpLWNvbXBhbmllcy1zcC01MDA_dXRtX3Rlcm0lM0R0d3NvY2lhbHNoYXJlJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6C80a3e597"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
+alt="Tweet this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMTUvYWktY29tcGFuaWVzLXNwLTUwMD91dG1fdGVybSUzRGxpc29jaWFsc2hhcmUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6Cfe44655d"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
+alt="Post to LinkedIn"&gt;&lt;/a&gt;
+&lt;a href="mailto:?subject=From Axios: Corporate AI adoption is getting real&amp;body=wp2whqxolhhcc27ve7v4%40kill-the-newsletter.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0ACorporate AI adoption is getting real%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F04%2F15%2Fai-companies-sp-500%3Futm_term%3Demshare"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
+alt="Email this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMTUvYWktY29tcGFuaWVzLXNwLTUwMD91dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBDb21tdW5pY2F0b3JzJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6B0bc68ad3"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
+alt="Text this Story"&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5% 10px; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;"&gt;
+3. The work AI boom is outrunning oversight
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 0 3.5% 10px; line-height: 1.5;"&gt;
+&lt;span class="bodytext" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335"&gt;
+By &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2F1dGhvcnMvYWdvbGQ_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B0104ba4a" class="card-byline" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335"&gt;Ashley Gold&lt;/a&gt;
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;img src="https://images.axios.com/NPAuV_k1MWw0aj6729FqkfJCd88=/1920x1080/smart/2025/03/05/191748-1741202268968.jpg" width="600" style="width:100%" id="item04" alt="Illustration of a man in a business suit and a robot running inside of two connected gears."&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 0 3.5%; line-height: 1.3;"&gt;
+&lt;span class="bodytext" style="font-size: 13px; color: #848484;"&gt;
+&lt;p&gt;Illustration: Lindsey Bailey/Axios&lt;/p&gt;
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="15" style="height: 15px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;p&gt;&lt;strong&gt;The AI boom&lt;/strong&gt; is accelerating across workplaces, but corporate oversight isn't keeping up, according to a new survey by the audit and advisory firm Grant Thornton.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Why it matters: &lt;/strong&gt;A mismatch between adoption and accountability raises risk of regulatory scrutiny, legal exposure and costly mistakes as AI plays a bigger role in high-stakes decisions at work.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What's making it even more urgent is the rise of agentic AI — agents that work independently on tasks without constant human prompting.&lt;/li&gt;&lt;li&gt;That requires company-specific and standards-based rules to try to ensure AI systems operate safely and align with business values.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Driving the news:&lt;/strong&gt; Nearly 8 in 10 executives say their company&lt;strong&gt; &lt;/strong&gt;couldn't pass an AI governance audit, even as adoption surges, per the survey released Monday.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Among organizations piloting AI, just 7% are "very confident" they could pass an independent audit in 90 days. That jumps to 74% for companies with fully integrated AI.&lt;/li&gt;&lt;li&gt;Per the &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuZ3JhbnR0aG9ybnRvbi5jb20vc2VydmljZXMvYWR2aXNvcnktc2VydmljZXMvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvMjAyNi1haS1pbXBhY3Qtc3VydmV5P3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3MjcmVwb3J0/69bc8cf845e1867b3a0e6da6B84bcfd3f" target="_blank"&gt;survey&lt;/a&gt;, "organizations with fully integrated AI are nearly four times more likely to report revenue growth than those still piloting — 58% versus 15%."&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;What they're saying: &lt;/strong&gt;"Competitive FOMO is real. There is pressure pushing companies to move fast and show results from AI," Tom Puthiyamadam, managing partner of advisory services at Grant Thornton, told Axios.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;"[The] urgency to deploy has outpaced the urgency to create guardrails, to govern, to be compliant."&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;By the numbers:&lt;/strong&gt; Grant Thornton surveyed 950 C-suite and senior business leaders from Feb. 13 to March 18.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Per the survey, 75% of boards have approved major AI investments, but 48% have not set AI governance expectations, and 46% haven't integrated AI risk oversight programs.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMTMvYWktYm9vbS13b3JrLW92ZXJzaWdodD91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B1473eb42" target="_blank"&gt;Keep reading&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 20px 3.5% 25px 3.5%;"&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8xMy9haS1ib29tLXdvcmstb3ZlcnNpZ2h0P3V0bV90ZXJtJTNEZmJzb2NpYWxzaGFyZSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6D9b65ddd8"
+style="display: inline-block;"&gt;&lt;img width="32" height="32" style="border: none" target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
+alt="Share on Facebook"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1UaGUlMjB3b3JrJTIwQUklMjBib29tJTIwaXMlMjBvdXRydW5uaW5nJTIwb3ZlcnNpZ2h0Jmhhc2h0YWdzPWF4aW9zY29tbXVuaWNhdG9ycyZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMTMvYWktYm9vbS13b3JrLW92ZXJzaWdodD91dG1fdGVybSUzRHR3c29jaWFsc2hhcmUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6D131fe7fe"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
+alt="Tweet this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMTMvYWktYm9vbS13b3JrLW92ZXJzaWdodD91dG1fdGVybSUzRGxpc29jaWFsc2hhcmUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6D3674e3d2"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
+alt="Post to LinkedIn"&gt;&lt;/a&gt;
+&lt;a href="mailto:?subject=From Axios: The work AI boom is outrunning oversight&amp;body=wp2whqxolhhcc27ve7v4%40kill-the-newsletter.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AThe work AI boom is outrunning oversight%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F04%2F13%2Fai-boom-work-oversight%3Futm_term%3Demshare"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
+alt="Email this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMTMvYWktYm9vbS13b3JrLW92ZXJzaWdodD91dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBDb21tdW5pY2F0b3JzJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6B7544e8e6"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
+alt="Text this Story"&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;"&gt;
+&lt;p class="bodytext"
+style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;"
+&gt;
+A MESSAGE FROM AXIOS HQ
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5%; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;"&gt;April 30: The State of Internal Comms in 2026&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;img src="https://images.axios.com/QBpcol6MxOWwIZqWU__DXnjzqkg=/2026/04/03/1775224288411.png" alt="" width="600" style="width:100%" /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="15" style="height: 15px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;p&gt;Axios HQ surveyed leaders and employees to find out what's working — and what's not. Get the 2026 findings first with HQ's VP of Brand &amp; Strategy Emily Inverso. &lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3NocS5jb20vZXZlbnQvMjAyNi1zdGF0ZS1vZi1pbnRlcm5hbC1jb21tcy1ldmVudD91dG1fY2FtcGFpZ249NDE2MzM2OTItY29tbXMtcmVwb3J0LTIwMjYmdXRtX3NvdXJjZT1heGlvcy1jb21tdW5pY2F0b3JzJnV0bV9tZWRpdW09bmV3c2xldHRlci1hZCZ1dG1fY29udGVudD0yMDI2LXN0YXRlLW9mLWludGVybmFsLWNvbW1zLWV2ZW50JnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B383113e3"&gt;Save your spot. &lt;/a&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5% 10px; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;"&gt;
+4. 📚 Reading list
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;p&gt;&lt;em&gt;Here are the other stories we followed this week ... &lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;💰WPP is reportedly looking to exit the PR business &lt;/strong&gt;by selling comms giant Burson. The holding company &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cudGhldGltZXMuY29tL2J1c2luZXNzL2NvbXBhbmllcy1tYXJrZXRzL2FydGljbGUvd3BwLWV4cGxvcmVzLXNhbGUtb2YtcHVibGljLXJlbGF0aW9ucy1hcm0tZHZyazU4cXgyP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Bce2be3ff" target="_blank"&gt;sold&lt;/a&gt; its stake in FGS Global in 2023. &lt;em&gt;(The Times)&lt;/em&gt;&lt;/li&gt;&lt;li&gt;🚫 Brands like Aerie and Le Creuset have &lt;strong&gt;adopted "no AI" disclaimers &lt;/strong&gt;in marketing materials &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cud3NqLmNvbS9jbW8tdG9kYXkvYnJhbmRzLWFkb3B0LW5vLWFpLWRpc2NsYWltZXJzLXRvLXN0YW5kLW91dC1hbWlkLXRoZS1zbG9wLWE5MjM1MmFmP21vZD1jbW8tdG9kYXlfbGVhZF9wb3MyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6B6541c25e" target="_blank"&gt;to push back against&lt;/a&gt; slop and maintain consumer trust.&lt;em&gt; (The Wall Street Journal)&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;⚖️ Following an FTC probe, major ad companies&lt;/strong&gt; — like Dentsu and Publicis — have &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuZnRjLmdvdi9uZXdzLWV2ZW50cy9uZXdzL3ByZXNzLXJlbGVhc2VzLzIwMjYvMDQvZnRjLXRha2VzLWFjdGlvbi1yZXN0b3JlLWNvbXBldGl0aW9uLWRpZ2l0YWwtYWR2ZXJ0aXNpbmctZWNvc3lzdGVtP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6B89dfa39f" target="_blank"&gt;agreed to a proposed order&lt;/a&gt; that will stop any practices that discourage clients from advertising on select platforms like X. (&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cDovL0ZUQy5nb3Y_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B06ed2c13" target="_blank"&gt;FTC.gov&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;🤖Zuck AI: &lt;/strong&gt;Meta is building &lt;strong&gt;an AI version of Mark Zuckerberg&lt;/strong&gt; — which is being trained on his mannerisms, tone and statements — with the hope that &lt;strong&gt;employees &lt;/strong&gt;&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRlbnQvMDIxMDdjMjMtNmM3YS00YzE5LWI4ZTItYjQ1ZjRiYjljZTVmP2FjY2Vzc1Rva2VuPXp3QUFBWjJJd2NmdGtjOENFSHdqYkhwTUdkTzQ0clJmUzduT1h3Lk1FVUNJRk1LeWRra19IYU14RU84cEpON0JhckUwekx1b04yWWZLdjQ1VmRyaVg2Z0FpRUFyTzFJSEkyT1lUSW56cFFVZk9rOFRiR1NrT1ZSUDYzdjhkLWlPR0pIckRvJnNoYXJldHlwZT1naWZ0JnRva2VuPWE3YjU4NThmLTU1NDQtNDQ3NC04YjYzLTkzMzhlYzJkYmU2MSZzeW4tMjVhNmIxYTY9MSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B740f6388" target="_blank"&gt;&lt;strong&gt;can engage with and feel more connected&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; to the founder&lt;/strong&gt;. Cue the robot jokes. &lt;em&gt;(The Financial Times)&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;📱Pepsi embraces Poppi's&lt;/strong&gt; social-first, &lt;strong&gt;brand-building playbook&lt;/strong&gt;. "I think they're actually trying to learn from us," Poppi co-founder Allison Ellsworth &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDI2LzA0LzEyL3BvcHBpLXNvZGEtYWxsaXNvbi1lbGxzd29ydGgtcGVwc2ktc3RhcnR1cC1mb3VuZGVyLWFkdmljZS8_dXRtX2NvbnRlbnQ9bGlzdF9jb250ZW50XzBfdG9wX2xlYWRlcnNoaXBfbmV3cyZqPTExMTMyMCZzZm1jX3N1Yj0yMjE3OTM1MiZsPTEyMjdfSFRNTCZ1PTg3OTQ4ODUmbWlkPTU0NjAxNDY1MyZqYj0yMDQmdXRtX3NvdXJjZT1zZm1jJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPU5MX2Nlby1kYWlseV8yMDI2LTQtMTRfMTExMzIwJnV0bV90ZXJtPWNlby1kYWlseSZzZm1jX2lkPTIyMTc5MzUyJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B6ce9f178" target="_blank"&gt;told&lt;/a&gt; &lt;em&gt;Fortune&lt;/em&gt;.&lt;ul&gt;&lt;li&gt;Ellsworth spoke at last year's MB (LIVE). This year's summit takes place on Sept. 17 in Chicago. &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly9heGlvc21peGluZ2JvYXJkbGl2ZS0yMDI2LnNwbGFzaHRoYXQuY29tLz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6Bc2a1ba8c" target="_blank"&gt;&lt;em&gt;Join us!&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 20px 3.5% 25px 3.5%;"&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtY29tbXVuaWNhdG9ycy01ZmQ5ZDE4MC0zNGVkLTExZjEtOGExMS0zYjNiNTdjODEzNmMuaHRtbD9jaHVuayUzRDQlMjZ1dG1fdGVybSUzRGZic29jaWFsc2hhcmUlMjNzdG9yeTQmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6E8a06eded"
+style="display: inline-block;"&gt;&lt;img width="32" height="32" style="border: none" target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
+alt="Share on Facebook"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0lRjAlOUYlOTMlOUElMjBSZWFkaW5nJTIwbGlzdCZoYXNodGFncz1heGlvc2NvbW11bmljYXRvcnMmdXJsPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9uZXdzbGV0dGVycy9heGlvcy1jb21tdW5pY2F0b3JzLTVmZDlkMTgwLTM0ZWQtMTFmMS04YTExLTNiM2I1N2M4MTM2Yy5odG1sP2NodW5rJTNENCUyNnV0bV90ZXJtJTNEdHdzb2NpYWxzaGFyZSUyM3N0b3J5NCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6Eab911072"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
+alt="Tweet this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtNWZkOWQxODAtMzRlZC0xMWYxLThhMTEtM2IzYjU3YzgxMzZjLmh0bWw_Y2h1bmslM0Q0JTI2dXRtX3Rlcm0lM0RsaXNvY2lhbHNoYXJlJTIzc3Rvcnk0JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Ef4531769"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
+alt="Post to LinkedIn"&gt;&lt;/a&gt;
+&lt;a href="mailto:?subject=From Axios: 📚 Reading list&amp;body=wp2whqxolhhcc27ve7v4%40kill-the-newsletter.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A📚 Reading list%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-communicators-5fd9d180-34ed-11f1-8a11-3b3b57c8136c.html%3Fchunk%3D4%26utm_term%3Demshare%23story4"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
+alt="Email this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtNWZkOWQxODAtMzRlZC0xMWYxLThhMTEtM2IzYjU3YzgxMzZjLmh0bWw_Y2h1bms9NCZ1dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBDb21tdW5pY2F0b3JzJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3Mjc3Rvcnk0/69bc8cf845e1867b3a0e6da6Bc4327d3d"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
+alt="Text this Story"&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5% 10px; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;"&gt;
+5. 💰1 stat to know
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;img src="https://images.axios.com/TXl05Jv6S9JM8no8qVpG49NQHGM=/1920x1080/smart/2021/09/02/163052-1630600252299.jpg" width="600" style="width:100%" id="item06" alt="Illustration of a dollar bill being broken up into binary code"&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 0 3.5%; line-height: 1.3;"&gt;
+&lt;span class="bodytext" style="font-size: 13px; color: #848484;"&gt;
+&lt;p&gt;Illustration: Sarah Grillo/Axios&lt;/p&gt;
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="15" style="height: 15px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;p&gt;&lt;strong&gt;Two-thirds of U.S. retail investors&lt;/strong&gt; are using AI tools to help inform their investment decisions, per a &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuaW52ZXN0aW5nLmNvbS9ibG9nL2hvdy1yZXRhaWwtaW52ZXN0b3JzLWFyZS11c2luZy1haS1pbi0yMDI2LTMzOT91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B65f3a0ad" target="_blank"&gt;new survey&lt;/a&gt; from Investing.com.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Zoom in: &lt;/strong&gt;Research remains the dominant use for retail investors, with 62% using AI to research stocks or other assets, 35% to better understand market news, 34% to generate trading ideas and 22% to help make portfolio decisions. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Meanwhile, roughly 3 in 10  say they have followed AI-generated trade ideas multiple times and 1 in 5 are considering it. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Zoom out: &lt;/strong&gt;Institutional investors are also relying more on AI, with 54% saying AI outputs are an important part of research, per a recent Brunswick Group &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYnJ1bnN3aWNrZ3JvdXAuY29tL2FwcC91cGxvYWRzL0JydW5zd2ljay1Hcm91cC0yMDI2LUludmVzdG9yLVN1cnZleS5wZGY_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6Bd643ce69" target="_blank"&gt;report&lt;/a&gt;.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Roughly 7 in 10 institutional investors say AI has changed the way they approach earnings calls, with 46% saying they are more likely to skip the calls altogether and review AI-generated summaries instead.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;What to watch: &lt;/strong&gt;In response, investor relations sites are being optimized and updated to better inform LLMs by adding comprehensive FAQ or more multimedia content.&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjUvMTEvMTMvcmV0YWlsLWludmVzdG9yLWNvbW1zLXNoaWZ0P3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Bf89d0ee9" target="_blank"&gt;Go deeper&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 20px 3.5% 25px 3.5%;"&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtY29tbXVuaWNhdG9ycy01ZmQ5ZDE4MC0zNGVkLTExZjEtOGExMS0zYjNiNTdjODEzNmMuaHRtbD9jaHVuayUzRDUlMjZ1dG1fdGVybSUzRGZic29jaWFsc2hhcmUlMjNzdG9yeTUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6F46d90de9"
+style="display: inline-block;"&gt;&lt;img width="32" height="32" style="border: none" target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
+alt="Share on Facebook"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0lRjAlOUYlOTIlQjAxJTIwc3RhdCUyMHRvJTIwa25vdyZoYXNodGFncz1heGlvc2NvbW11bmljYXRvcnMmdXJsPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9uZXdzbGV0dGVycy9heGlvcy1jb21tdW5pY2F0b3JzLTVmZDlkMTgwLTM0ZWQtMTFmMS04YTExLTNiM2I1N2M4MTM2Yy5odG1sP2NodW5rJTNENSUyNnV0bV90ZXJtJTNEdHdzb2NpYWxzaGFyZSUyM3N0b3J5NSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6F69fbd47f"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
+alt="Tweet this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtNWZkOWQxODAtMzRlZC0xMWYxLThhMTEtM2IzYjU3YzgxMzZjLmh0bWw_Y2h1bmslM0Q1JTI2dXRtX3Rlcm0lM0RsaXNvY2lhbHNoYXJlJTIzc3Rvcnk1JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Fb0aeed45"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
+alt="Post to LinkedIn"&gt;&lt;/a&gt;
+&lt;a href="mailto:?subject=From Axios: 💰1 stat to know&amp;body=wp2whqxolhhcc27ve7v4%40kill-the-newsletter.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A💰1 stat to know%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-communicators-5fd9d180-34ed-11f1-8a11-3b3b57c8136c.html%3Fchunk%3D5%26utm_term%3Demshare%23story5"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
+alt="Email this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtNWZkOWQxODAtMzRlZC0xMWYxLThhMTEtM2IzYjU3YzgxMzZjLmh0bWw_Y2h1bms9NSZ1dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBDb21tdW5pY2F0b3JzJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3Mjc3Rvcnk1/69bc8cf845e1867b3a0e6da6B49956a9b"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
+alt="Text this Story"&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5% 10px; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;"&gt;
+6. 🥤1 post to go
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;img src="https://images.axios.com/znm03srFdCmcZP-M7OM8h53mfgs=/0x0:1920x1080/1920x1080/2026/04/13/1776115699682.jpg" width="600" style="width:100%" id="item07" alt="Screen shot of a tweet "&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 0 3.5%; line-height: 1.3;"&gt;
+&lt;span class="bodytext" style="font-size: 13px; color: #848484;"&gt;
+&lt;p&gt;Screenshot: X/&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly94LmNvbS9hdHJ1cGFyL3N0YXR1cy8yMDQzNzMzOTE4NDQ5MzgxODgwP3M9NDYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B67ea095e" target="_blank"&gt;@atrupar&lt;/a&gt;&lt;/p&gt;
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="15" style="height: 15px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;p&gt;&lt;strong&gt;The DoorDash&lt;/strong&gt; comms team could rest easy after Sharon Simmons, the self-proclaimed DoorDash Grandma, stayed &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly9hYm91dC5kb29yZGFzaC5jb20vZW4tdXMvbmV3cy9kYXNoZXItdmlzaXRzLXdoaXRlLWhvdXNlLXRvLWNlbGVicmF0ZS1uby10YXgtb24tdGlwcz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6Be70aba9e" target="_blank"&gt;on message&lt;/a&gt; while delivering fast food to President Trump.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 20px 3.5% 25px 3.5%;"&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtY29tbXVuaWNhdG9ycy01ZmQ5ZDE4MC0zNGVkLTExZjEtOGExMS0zYjNiNTdjODEzNmMuaHRtbD9jaHVuayUzRDYlMjZ1dG1fdGVybSUzRGZic29jaWFsc2hhcmUlMjNzdG9yeTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6G4f8267c2"
+style="display: inline-block;"&gt;&lt;img width="32" height="32" style="border: none" target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
+alt="Share on Facebook"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0lRjAlOUYlQTUlQTQxJTIwcG9zdCUyMHRvJTIwZ28maGFzaHRhZ3M9YXhpb3Njb21tdW5pY2F0b3JzJnVybD1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtY29tbXVuaWNhdG9ycy01ZmQ5ZDE4MC0zNGVkLTExZjEtOGExMS0zYjNiNTdjODEzNmMuaHRtbD9jaHVuayUzRDYlMjZ1dG1fdGVybSUzRHR3c29jaWFsc2hhcmUlMjNzdG9yeTYmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6G89a7af05"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
+alt="Tweet this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtNWZkOWQxODAtMzRlZC0xMWYxLThhMTEtM2IzYjU3YzgxMzZjLmh0bWw_Y2h1bmslM0Q2JTI2dXRtX3Rlcm0lM0RsaXNvY2lhbHNoYXJlJTIzc3Rvcnk2JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6G1235c18c"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
+alt="Post to LinkedIn"&gt;&lt;/a&gt;
+&lt;a href="mailto:?subject=From Axios: 🥤1 post to go&amp;body=wp2whqxolhhcc27ve7v4%40kill-the-newsletter.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A🥤1 post to go%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-communicators-5fd9d180-34ed-11f1-8a11-3b3b57c8136c.html%3Fchunk%3D6%26utm_term%3Demshare%23story6"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
+alt="Email this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtNWZkOWQxODAtMzRlZC0xMWYxLThhMTEtM2IzYjU3YzgxMzZjLmh0bWw_Y2h1bms9NiZ1dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBDb21tdW5pY2F0b3JzJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3Mjc3Rvcnk2/69bc8cf845e1867b3a0e6da6B92f6a6cb"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
+alt="Text this Story"&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;"&gt;
+&lt;p class="bodytext"
+style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;"
+&gt;
+A MESSAGE FROM AXIOS HQ
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5%; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;"&gt;April 30: The State of Internal Comms in 2026&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;img src="https://images.axios.com/QBpcol6MxOWwIZqWU__DXnjzqkg=/2026/04/03/1775224288411.png" alt="" width="600" style="width:100%" /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="15" style="height: 15px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;p&gt;Axios HQ surveyed leaders and employees to find out what's working — and what's not. Get the 2026 findings first with HQ's VP of Brand &amp; Strategy Emily Inverso. &lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3NocS5jb20vZXZlbnQvMjAyNi1zdGF0ZS1vZi1pbnRlcm5hbC1jb21tcy1ldmVudD91dG1fY2FtcGFpZ249NDE2MzM2OTItY29tbXMtcmVwb3J0LTIwMjYmdXRtX3NvdXJjZT1heGlvcy1jb21tdW5pY2F0b3JzJnV0bV9tZWRpdW09bmV3c2xldHRlci1hZCZ1dG1fY29udGVudD0yMDI2LXN0YXRlLW9mLWludGVybmFsLWNvbW1zLWV2ZW50JnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6C383113e3"&gt;Save your spot. &lt;/a&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 20px 3.5% 10px 3.5%; margin: 0; line-height: 1.75; border-bottom: 10px solid #f5f5f5; font-size: 16px; color: #222222; letter-spacing: -0.1px; font-family: Georgia, serif;"&gt;
+&lt;p&gt;✅&lt;em&gt; Thanks for reading! For more content, &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cubWl4aW5nYm9hcmQuY28vbWVtYmVyc2hpcD91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B7e117990" target="_blank"&gt;apply to become&lt;/a&gt; a Mixing Board, powered by Axios member.&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td
+class="hq-cta"
+style="
+padding: 24px 4% 24px 4%;
+margin: 0;
+line-height: 1.75;
+font-size: 16px;
+color: #222222;
+letter-spacing: -0.1px;
+font-family: Arial, sans-serif;
+"
+&gt;
+&lt;table
+width="100%"
+style="margin: 0 auto; width: 100%"
+cellspacing="0"
+cellpadding="0"
+&gt;
+&lt;tr&gt;
+&lt;td style="font-size: 0"&gt;
+&lt;img
+src=https://static.axios.com/img-email/smart-brevity.gif
+style="width: 100%; max-width: 87px; min-width: 64px"
+border="0"
+alt=HQ
+width="87"
+/&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;table
+width="100%"
+style="max-width: 600px; margin: 0 auto; width: 100%"
+cellspacing="0"
+cellpadding="0"
+&gt;
+&lt;tr&gt;
+&lt;td style="padding-left: 20px; font-family: 'NB International Pro', 'Helvetica', 'Helvetica Neue'" class="hq-cta-text"&gt;
+&lt;div style="font-size: 17px; color: #333335" class="hq-cta-text-header"&gt;👆 Like this comms style and format?&lt;/div&gt;&lt;div style="padding-top: 6px; font-size: 14px; color: #656568; line-height: 1.5" class="hq-cta-text-body"&gt;It's called Smart Brevity®. &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3NocS5jb20vZGVtbz91dG1fc291cmNlPWF4aW9zLW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YXhpb3NocS1ubC1mb290ZXImc3RyZWFtPXRvcA/69bc8cf845e1867b3a0e6da6Bcfb7e585"&gt;Bring it to your org&lt;/a&gt; — via hands-on training or internal comms software — to harness its power and impact.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;!-- End email content --&gt;
+&lt;!-- Start footer --&gt;
+&lt;table style="max-width:600px; margin: 0 auto; width: 100%;" cellspacing="0" cellpadding="0"&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 20px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 0 5%; line-height: 1.75;"&gt;
+&lt;span class="bodytext" style="font-size: 12px; line-height: 1.75; color: #333335;"&gt;
+&lt;p&gt;Axios thanks our partners for supporting our newsletters.
+&lt;br&gt; Sponsorship has no influence on editorial content.
+&lt;br&gt;&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2FkdmVydGlzZT91dG1fc291cmNlPWF4aW9zJnV0bV9tZWRpdW09bmwtZm9vdGVyJnV0bV9jYW1wYWlnbj1hZHYtbmwtZm9vdGVyJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B3a64aed2" style="color: #333335;"&gt;Advertise with us&lt;/a&gt;.&lt;/p&gt;
+&lt;/span&gt;
+&lt;span class="bodytext" style="font-size: 12px; line-height: 1.75; color: #333335;"&gt;
+Axios, PO Box 101060, Arlington VA 22201
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 20px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 0 5%; line-height: 1.2;"&gt;
+&lt;span class="bodytext" style="font-size: 12px; line-height: 1.2; color: #333335;"&gt;
+You received this email because you signed up for newsletters from Axios.&lt;br&gt;
+To stop receiving this newsletter, &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2FjY291bnQvc3Vic2NyaXB0aW9ucy9jb25maXJtYXRpb24_bmFtZT1BeGlvcyUyMENvbW11bmljYXRvcnMmbGlzdE5hbWU9bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc2lkPTY5YmM4Y2Y4NDVlMTg2N2IzYTBlNmRhNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B76220309" style="color: #333335;"&gt;unsubscribe&lt;/a&gt; or &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2FjY291bnQvc3Vic2NyaXB0aW9ucz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6Ba656471d" style="color: #333335;"&gt;manage your email preferences&lt;/a&gt;.
+&lt;!-- To stop receiving this newsletter, &lt;a href="https://link.axios.com/oc/69bc8cf845e1867b3a0e6da6qxph7.1r18/0da07b9b" style="color: #333335;"&gt;unsubscribe&lt;/a&gt; or &lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2FjY291bnQvc3Vic2NyaXB0aW9ucz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6Ca656471d" style="color: #333335;"&gt;manage your email preferences&lt;/a&gt;. --&gt;
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 20px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 0 5%; line-height: 1.2;"&gt;
+&lt;span class="bodytext" style="font-size: 12px; line-height: 1.2; color: #333335;"&gt;
+Was this email forwarded to you?&lt;br&gt;
+&lt;a href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzP3V0bV9zb3VyY2U9bmV3c2xldHRlcl9zaGFyZT91dG1fc291cmNlJTNEZm9yd2FyZGVkX2VtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B46893e37" style="color: #333335;"&gt;Sign up now&lt;/a&gt; to get Axios in your inbox.
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 20px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="30" align="center"&gt;
+&lt;p class="bodytext" style="font-size: 12px; line-height: 1.75; color: #333335;"&gt;Follow Axios on social media:&lt;/p&gt;
+&lt;a target="_blank" href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2F4aW9zbmV3cy8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B23036b5d"&gt;&lt;img src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" height="32" alt="Axios on Facebook" style="border: 0; padding-right: 20px;" /&gt;&lt;/a&gt;
+&lt;a target="_blank" href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cudHdpdHRlci5jb20vYXhpb3MvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Ba69a298a"&gt;&lt;img src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" height="32" alt="Axios on X" style="border: 0; padding-right: 20px;" /&gt;&lt;/a&gt;
+&lt;a target="_blank" href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9heGlvcy8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B002bb080"&gt;&lt;img src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-instagram-circle-border.png" height="32" alt="Axios on Instagram" style="border: 0; padding-right: 20px;" /&gt;&lt;/a&gt;
+&lt;a target="_blank" href="https://link.axios.com/click/45242683.81692/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvYXhpb3MtbWVkaWE_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B25f034dc"&gt;&lt;img src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" height="32" alt="Axios on LinkedIn" style="border: 0;" /&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 20px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="70" style="height: 70px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;!-- End footer --&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;div class="gmailfix" style="white-space:nowrap; font:15px courier; line-height:0;"&gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;/div&gt;
+&lt;a style="color: #f5f5f5" href=https://link.axios.com/oc/69bc8cf845e1867b3a0e6da6qxph7.1r18/0da07b9b&gt; &lt;/a&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 
