@@ -5,7 +5,7 @@
     <description>Axios Communicators newsletter - archived RSS feed</description>
     <link>https://www.axios.com/newsletters/axios-communicators</link>
     <atom:link href="https://natanedelsburg.github.io/axios-rss/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 14 May 2026 21:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:53:37 +0000</lastBuildDate>
     <generator>axios-rss-archiver</generator>
     <item>
       <title>Your feedback matters to us</title>
@@ -6691,6 +6691,663 @@ Was this email forwarded to you?&lt;br&gt;
 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
 &lt;/div&gt;
 &lt;a style="color: #f5f5f5" href=https://link.axios.com/oc/69bc8cf845e1867b3a0e6da6r7zap.1zxt?profile_id=69bc8cf845e1867b3a0e6da6&amp;hash=aec80ef0e8e23cba00da818cc2c0ab80&gt; &lt;/a&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+              
+                &lt;hr /&gt;
+                &lt;p&gt;
+                  &lt;small&gt;
+                    &lt;a
+                      href="https://kill-the-newsletter.com/feeds/wp2whqxolhhcc27ve7v4"
+                      &gt;Kill the Newsletter! feed settings&lt;/a
+                    &gt;
+                  &lt;/small&gt;
+                &lt;/p&gt;
+              
+            </description>
+    </item>
+    <item>
+      <title>💪 The human edge</title>
+      <link>https://kill-the-newsletter.com/feeds/wp2whqxolhhcc27ve7v4/entries/5x61n64n960hpcabtvjp.html</link>
+      <guid isPermaLink="false">urn:kill-the-newsletter:5x61n64n960hpcabtvjp</guid>
+      <pubDate>Thu, 21 May 2026 16:01:46 +0000</pubDate>
+      <description>
+              &lt;!doctype html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="content-type" content="text/html;charset=UTF-8" /&gt;
+&lt;meta http-equiv="X-UA-Compatible" content="chrome=1" /&gt;
+&lt;meta property="og:title" content="Axios Communicators" /&gt;
+&lt;meta property="og:image" content="https://static.axios.com/img-email/socialcard_axiosmarkets3.jpg" /&gt;
+&lt;meta property="og:description" content="A weekly look at the topics and trends important to communicators. With Eleanor Hawkins. Weekly - Sundays" /&gt;
+&lt;meta name="twitter:card" content="summary_large_image" /&gt;
+&lt;meta name="twitter:title" content="Axios Communicators" /&gt;
+&lt;meta name="twitter:description" content="A weekly look at the topics and trends important to communicators. With Eleanor Hawkins. Weekly - Sundays" /&gt;
+&lt;meta property="twitter:image" content="https://static.axios.com/img-email/socialcard_axiosmarkets3.jpg" /&gt;
+&lt;meta name="format-detection" content="telephone=no"&gt;
+&lt;meta name="format-detection" content="date=no"&gt;
+&lt;meta name="format-detection" content="address=no"&gt;
+&lt;meta name="format-detection" content="email=no"&gt;
+&lt;meta name="st-public-url" content="https://link.axios.com/public/45828572"&gt;
+&lt;style type="text/css"&gt;
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+border-bottom: none !important;
+}
+@font-face {
+font-family: 'atizatext';
+src: url('https://static.axios.com/fonts/atizatext-regular-webfont.eot');
+src: url('https://static.axios.com/fonts/atizatext-regular-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/atizatext-regular-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/atizatext-regular-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/atizatext-regular-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/atizatext-regular-webfont.svg#atizatext') format('svg');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'atizabold';
+src: url('https://static.axios.com/fonts/atizatext-bold-webfont.eot');
+src: url('https://static.axios.com/fonts/atizatext-bold-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/atizatext-bold-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/atizatext-bold-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/atizatext-bold-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/atizatext-bold-webfont.svg#atizatext') format('svg');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'gordita';
+src: url('https://static.axios.com/fonts/gorditaregular-webfont.eot');
+src: url('https://static.axios.com/fonts/gorditaregular-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/gorditaregular-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/gorditaregular-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/gorditaregular-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/gorditaregular-webfont.svg#gorditaregular') format('svg');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'gorditamedium';
+src: url('https://static.axios.com/fonts/gorditamedium-webfont.eot');
+src: url('https://static.axios.com/fonts/gorditamedium-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/gorditamedium-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/gorditamedium-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/gorditamedium-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/gorditamedium-webfont.svg#gorditamedium') format('svg');
+font-weight: 500;
+font-style: normal;
+}
+@font-face {
+font-family: 'gorditabold';
+src: url('https://static.axios.com/fonts/gorditabold-webfont.eot');
+src: url('https://static.axios.com/fonts/gorditabold-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/gorditabold-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/gorditabold-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/gorditabold-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/gorditabold-webfont.svg#gorditabold') format('svg');
+font-weight: 500;
+font-style: normal;
+}
+&lt;/style&gt;
+&lt;style type="text/css"&gt;
+p {
+margin-top: 0px;
+margin-bottom: 1em;
+}
+p strong {
+font-family: Georgia, serif;
+font-weight: 700;
+}
+.main-header,
+.bodytext {
+font-family: Arial, Helvetica, sans-serif;
+}
+.figcaption {
+color: #848484;
+font-size: 13px;
+font-family:'Gordita',Arial,Helvetica,sans-serif!important;
+margin-bottom: 20px;
+}
+.figcaption + blockquote {
+margin-top: 20px;
+margin-left: 40px;
+}
+.post-text a {
+border-bottom: 1px solid #008dc8;
+text-decoration: none;
+}
+.post-text a:hover {
+color: #008dc8;
+}
+.post-text ul li {
+margin-bottom: 10px;
+}
+a {
+color: #222222;
+}
+.hq-cta a {
+border-bottom: 1px solid #008dc8;
+text-decoration: none;
+}
+.hq-cta a:hover {
+color: #008dc8;
+}
+.gmailfix {
+display:none;
+display:none!important;
+}
+.card-byline {
+text-decoration: underline !important;
+font-size:13px!important;
+font-family:'Gordita',Arial,Helvetica,sans-serif!important;
+color:#333335 !important;
+}
+.card-byline:hover {
+text-decoration: underline;
+}
+@media (max-width: 600px) {
+.hed {
+font-size: 26px !important;
+-webkit-text-size-adjust: 100%;
+}
+.main-header {
+font-size: 34px !important;
+}
+.post-text {
+font-size: 17px !important;
+-webkit-text-size-adjust: none !important;
+}
+.hq-cta{
+padding: 16px !important;
+}
+.hq-cta img{
+width:64px !important;
+}
+.hq-cta-text-header{
+display:block;
+font-size: 14px !important;
+line-height:17.5px !important;
+-webkit-text-size-adjust: 100%;
+}
+.hq-cta-text-body{
+display:block;
+margin-top:8px !important;
+line-height:13.75px !important;
+font-size: 11px !important;
+-webkit-text-size-adjust: 100%;
+}
+}
+div &gt; u + .body .gmail{
+display: initial !important;
+}
+&lt;/style&gt;
+&lt;link href="https://fonts.googleapis.com/css?family=PT+Mono&amp;display=swap" rel="stylesheet"&gt;
+&lt;!--[if mso]&gt;
+&lt;style type="text/css"&gt;
+.bodytext, .main-header  {font-family: Arial, Helvetica, Helvetica, sans-serif !important;}
+.post-text {font-family: Georgia, Palatino Linotype, serif !important;}
+.ol-adpad {padding-bottom: 10px !important;}
+a {color: #222222; text-decoration:underline !important;}
+&lt;/style&gt;
+&lt;![endif]--&gt;
+&lt;!--[if gte mso 7]&gt;&lt;xml&gt;
+&lt;o:OfficeDocumentSettings&gt;
+&lt;o:AllowPNG/&gt;
+&lt;o:PixelsPerInch&gt;96&lt;/o:PixelsPerInch&gt;
+&lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body style="background-color: #f5f5f5; margin: 0 auto; padding: 0; text-align: center;" class="body"&gt;
+&lt;div style="display:none;font-size:1px;color:#222222;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;"&gt;
+Plus: 💃 Dior runway insights | Thursday, May 21, 2026
+&lt;/div&gt;
+&lt;table cellpadding="0" cellspacing="0" width="100%" style="background-color: #f6f6f6;text-align: center"&gt;
+&lt;tr&gt;
+&lt;td style="max-width: 600px;"&gt;
+&lt;!--[if mso]&gt;
+&lt;table style="width:600px;"&gt;&lt;tr&gt;&lt;td&gt;
+&lt;![endif]--&gt;
+&lt;table style="max-width: 600px; width: 100%; margin: 0 auto; text-align: left; background: #fff;" cellspacing="0" cellpadding="0"&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 20px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top;"&gt;
+&lt;table cellspacing="0" cellpadding="0" width="100%"&gt;
+&lt;tr&gt;
+&lt;td style="padding-left: 3.5%"&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Be59bae68" title="AXIOS" target="_blank"&gt;&lt;img src="https://static.axios.com/img-email/axios-retina.png" alt="Axios" width="83" border="0"/&gt;&lt;/a&gt;  &lt;a href="https://link.axios.com/click/45828572.85041/aHR0cDovL3d3dy5heGlvcy5jb20_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6Bf27d9116"&gt;&lt;img src="https://link.axios.com/img/69bc8cf845e1867b3a0e6da6ra9jw.1tm9/d0106702.gif" alt="" border="0" /&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style="padding-right: 3.5%;" align="right"&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtOGFkMDk1NDAtNTJjMC0xMWYxLWEzNjYtODE5MjBiZWVmZGE1Lmh0bWw_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6Bf2bd48c7" target="_blank" class="bodytext" style="color: #222222; font-size: 13px; font-family: 'gordita', Arial, Helvetica, sans-serif;text-decoration:underline;"&gt;View in browser&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="30" style="height: 30px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; line-height: 1.3;"&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="16" style="height: 16px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; line-height: 1;"&gt;
+&lt;span class="main-header" style="font-size: 44px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #008dc8; letter-spacing: -1px; line-height: 1;"&gt;Axios Communicators&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; line-height: 1.5; padding-bottom:35px;padding-top:10px;"&gt;
+&lt;span class="bodytext"  style="font-size: 13px; color: #222222; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; "&gt;By
+Christine Wang
+&lt;span style="margin: 0 6px;"&gt;&amp;middot;&lt;/span&gt;
+May 21, 2026
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px; padding: 0 3.5%;"&gt;
+&lt;p&gt;☀️ Welcome back to Axios Communicators — this week led by Sona Iliffe-Moon, chief communications officer at Yahoo.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Today she dives into how humans can win in the AI era, plus a Hollywood dispatch from Jonathan Anderson's Dior Cruise show.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;⛵️ &lt;strong&gt;Axios House&lt;/strong&gt; is returning to Cannes Lions this summer, this time bigger than ever.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Speakers this year include Reddit CEO Steve Huffman, New York Times CEO Meredith Kopit Levien, Rachel Zoe, Alex Rodríguez, and Gotham Chopra. &lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly9zaWdudXBmb3J1cGRhdGVzLWF4aW9zaG91c2UtY2FubmVzMjAyNi5zcGxhc2h0aGF0LmNvbS8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6Bc11835a4" target="_blank"&gt;&lt;em&gt;Sign up&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for event and programming updates.&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Situational awareness:&lt;/strong&gt; FGS Global named Justin Dini as partner and global co-head of its strategy and reputation offering.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;He previously served as executive vice president and chief communications officer at Paramount Global. &lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDUvMjEvZmdzLWdsb2JhbC1qdXN0aW4tZGluaT91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B3ff1b07a" target="_blank"&gt;&lt;em&gt;Go deeper&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;This edition of Axios Communicators, edited by Christine Wang and copy edited by Patricia Guadalupe, is 1,151 words, 4.5 minutes.&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5% 10px; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;"&gt;
+1 big thing: The race to be more human
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;img src="https://images.axios.com/zm4oA7Dae6TGKgR4VR0vm7WTIjo=/1920x1080/smart/2025/06/30/211626-1751318186742.jpg" width="600" style="width:100%" id="item02" alt="Illustration of a robot hand holding a brain."&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 0 3.5%; line-height: 1.3;"&gt;
+&lt;span class="bodytext" style="font-size: 13px; color: #848484;"&gt;
+&lt;p&gt;Illustration: Lindsey Bailey/Axios&lt;/p&gt;
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="15" style="height: 15px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;p&gt;&lt;strong&gt;Authenticity&lt;/strong&gt; has always been the foundation of how brands build trust. But in an era where AI-generated content is everywhere, overly polished material has become generic and often &lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cud3NqLmNvbS90ZWNoL2FpL3dyaXRlcnMtYXJlLWdvaW5nLXRvLWV4dHJlbWVzLXRvLXByb3ZlLXRoZXktZGlkbnQtdXNlLWFpLTQ2ZTdjM2Y3P3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Bd8beb8ae" target="_blank"&gt;mistrusted&lt;/a&gt;.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;With AI use becoming table stakes, flawless copy, optimized messaging, and perfectly structured content are no longer differentiators. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; The new edge is things AI can't commoditize, like original voice, taste, and genuine human connection. As more content and communication get automated, showing up in person carries more weight than ever. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Look at where communicators&lt;/strong&gt; are putting their chips. IRL is back, and brands are showing up across the spectrum from SXSW and Coachella to Semafor World Economy, HumanX, and the Axios AI+ Summit. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ironically, the main stage is almost beside the point. The real action is in the surround sound of dinners, activations, and hallway conversations that wrap around the main show. These are intentional investments in something that doesn't traditionally scale.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;What they're saying: &lt;/strong&gt;"Algorithms changed our lives so rapidly — and we assumed for the better. But it turns out we need friction," Josh Rosenberg, CEO and co-founder of Day One Agency, told me. He works with clients such as e.l.f. Beauty, Chipotle, American Express, Sephora, and Nike.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;"The more fake, confusing, and uninspiring our feeds get, the more we want to look elsewhere. Showing up in person, and away from the screen, can be the antidote," he said.&lt;/li&gt;&lt;li&gt;"Authentically activating in real life gives brands the chance to develop genuine fans and build loyalty. Doing so takes time and effort — friction —but it earns undivided and sustained attention, which is the ultimate win."&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;The same instinct &lt;/strong&gt;is showing up on the content side. As AI tools became embedded into everyday workflows, Yahoo vice president of internal communications Sarah Smith developed a bespoke style guide designed to preserve the company's distinct voice, cadence, and executive authenticity — rather than defaulting to a standardized corporate tone. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;The shift comes as audiences, particularly younger ones, are &lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cudXNhdG9kYXkuY29tL3N0b3J5L21vbmV5LzIwMjYvMDUvMDYvYnJhbmRzLWxlYW4taW50by1taWxsZW5uaWFsLW9yLWdlbi16LW1hcmtldGluZy10cmVuZC84OTk1OTU2ODAwNy8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcyM/69bc8cf845e1867b3a0e6da6B6978ddf6" target="_blank"&gt;pushing back&lt;/a&gt; on overly polished "millennial corporate copy" and gravitating toward communication that feels more conversational, specific, and human.&lt;/li&gt;&lt;li&gt;AI accelerates the drafting; the guide preserves the judgment and personality that keep Yahoo's communication from becoming interchangeable with everyone else's.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Between the lines: &lt;/strong&gt;You'd never describe the best communicator you know as someone who writes the best press releases. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;AI fluency is the new version of that: necessary, but never enough. The best communicators of this era won't just be prompt engineers. They'll be interesting and interested — people who learn from culture, from leadership and employees, and from being present in the world around them.&lt;/li&gt;&lt;li&gt;The communicators who win will bring taste, judgment, creativity, connection, and genuine curiosity wherever they show up.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;The bottom line:&lt;/strong&gt; Once everyone masters the same tools, the only moat is something genuinely yours. The race to be more human is one that communicators are poised to win.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 20px 3.5% 25px 3.5%;"&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtY29tbXVuaWNhdG9ycy04YWQwOTU0MC01MmMwLTExZjEtYTM2Ni04MTkyMGJlZWZkYTUuaHRtbD9jaHVuayUzRDElMjZ1dG1fdGVybSUzRGZic29jaWFsc2hhcmUlMjNzdG9yeTEmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6Bcd2b8a1d"
+style="display: inline-block;"&gt;&lt;img width="32" height="32" style="border: none" target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
+alt="Share on Facebook"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0xJTIwYmlnJTIwdGhpbmc6JTIwVGhlJTIwcmFjZSUyMHRvJTIwYmUlMjBtb3JlJTIwaHVtYW4maGFzaHRhZ3M9YXhpb3Njb21tdW5pY2F0b3JzJnVybD1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtY29tbXVuaWNhdG9ycy04YWQwOTU0MC01MmMwLTExZjEtYTM2Ni04MTkyMGJlZWZkYTUuaHRtbD9jaHVuayUzRDElMjZ1dG1fdGVybSUzRHR3c29jaWFsc2hhcmUlMjNzdG9yeTEmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B7149ca30"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
+alt="Tweet this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtOGFkMDk1NDAtNTJjMC0xMWYxLWEzNjYtODE5MjBiZWVmZGE1Lmh0bWw_Y2h1bmslM0QxJTI2dXRtX3Rlcm0lM0RsaXNvY2lhbHNoYXJlJTIzc3RvcnkxJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6B25d98bd1"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
+alt="Post to LinkedIn"&gt;&lt;/a&gt;
+&lt;a href="mailto:?subject=From Axios: 1 big thing: The race to be more human&amp;body=wp2whqxolhhcc27ve7v4%40kill-the-newsletter.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A1 big thing: The race to be more human%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-communicators-8ad09540-52c0-11f1-a366-81920beefda5.html%3Fchunk%3D1%26utm_term%3Demshare%23story1"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
+alt="Email this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtOGFkMDk1NDAtNTJjMC0xMWYxLWEzNjYtODE5MjBiZWVmZGE1Lmh0bWw_Y2h1bms9MSZ1dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBDb21tdW5pY2F0b3JzJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3Mjc3Rvcnkx/69bc8cf845e1867b3a0e6da6Baa42762b"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
+alt="Text this Story"&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5% 10px; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;"&gt;
+👗 Bonus: Experience of a lifetime
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;img src="https://images.axios.com/vwjYaQ4EFAyQ4lxPCUu4jYDIxbQ=/0x0:1920x1080/1920x1080/2026/05/19/1779209716909.jpeg" width="600" style="width:100%" id="item03" alt="Triptych of models walking a fashion runway: left in a flowing purple sleeveless dress with a flower belt; center in pastel gowns; right in a bright yellow pleated dress with flower accents beside a vintage car."&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 0 3.5%; line-height: 1.3;"&gt;
+&lt;span class="bodytext" style="font-size: 13px; color: #848484;"&gt;
+&lt;p&gt;Photo: Sona Iliffe-Moon&lt;/p&gt;
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="15" style="height: 15px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;p&gt;&lt;strong&gt;As a lifelong fashion lover&lt;/strong&gt; — someone who grew up wanting to be a designer as much as a diplomat — attending Jonathan Anderson's first Dior Cruise show last Wednesday at the LACMA's new David Geffen Gallery was a bucket list moment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The big picture: &lt;/strong&gt;Anderson shared his &lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuZXNxdWlyZS5jb20vc3R5bGUvbWVucy1mYXNoaW9uL2E3MDIzMTE3NC9qb25hdGhhbi1hbmRlcnNvbi1kaW9yLWludGVydmlldy0yMDI2Lz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B6cece9e1" target="_blank"&gt;take on AI in a recent interview&lt;/a&gt;, which translates directly to where communicators find themselves today:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;"I think AI will make the hand of the designer more valuable. What is made by hand will always have a scarcity to it — it involves a brain-to-hand process, which is very complex. In the end, we want to connect to things emotionally."&lt;/li&gt;&lt;/ul&gt;&lt;div align="center"&gt;&lt;!--[if mso]&gt;&lt;img alt='' src='https://images.axios.com/r_hTd99yuLoym5QbnlXNAptiFzA=/fit-in/1116x1300/2026/05/19/1779209800333.jpeg' style='display:block; margin: 0 auto; max-width:100%;' width='558' /&gt;&lt;![endif]--&gt;&lt;!--[if !mso]&gt;&lt;!--&gt;&lt;img alt="" src="https://images.axios.com/r_hTd99yuLoym5QbnlXNAptiFzA=/fit-in/1116x1300/2026/05/19/1779209800333.jpeg" style="display:block; margin: 0 auto; max-width:100%;" width="100%"/&gt;&lt;!--&lt;![endif]--&gt;&lt;/div&gt; &lt;div class="bodytext" style="font-size:13px; font-family:'Gordita',Arial,Helvetica,sans-serif; color:#848484; margin-bottom:20px;"&gt;Photo: Sona Iliffe-Moon&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Behind the scenes: &lt;/strong&gt;About 400 people were there. Intimate in the space but everywhere by morning — amplified through the voices of every tastemaker present. The kind of night that reminds you why showing up in person still matters.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;In an action-packed 20 minutes, every detail told a story. From show notes styled as a film script to lamplit alleys, vintage Cadillacs, looks inspired by everything from California poppies to newspaper print, and dramatic lights and shadows playing off the brutalist runway, while tunes from John Lee Hooker, Air, and Linda Scott filled the air.&lt;/li&gt;&lt;li&gt;Anderson's fascination with Hitchcock's "Stage Fright" and Marlene Dietrich's famous ultimatum to wear Dior haute couture on set — "No Dior, No Dietrich" — ran through everything. Craft referencing craft.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;The bottom line:&lt;/strong&gt; If Anderson can distill a house's entire identity into 20 immersive minutes, communicators can ask themselves the same questions designers answer every season: What's the experience only your brand can create? What's the room that only you can put together? What's the story that requires your specific brain and experience to tell it?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The brain-to-hand process — the judgment, the instinct, the earned point of view — is exactly what can't be automated. That's always been the communicator's edge, and some things never go out of style.&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 20px 3.5% 25px 3.5%;"&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtY29tbXVuaWNhdG9ycy04YWQwOTU0MC01MmMwLTExZjEtYTM2Ni04MTkyMGJlZWZkYTUuaHRtbD9jaHVuayUzRDIlMjZ1dG1fdGVybSUzRGZic29jaWFsc2hhcmUlMjNzdG9yeTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6C6eceb2b8"
+style="display: inline-block;"&gt;&lt;img width="32" height="32" style="border: none" target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
+alt="Share on Facebook"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0lRjAlOUYlOTElOTclMjBCb251czolMjBFeHBlcmllbmNlJTIwb2YlMjBhJTIwbGlmZXRpbWUmaGFzaHRhZ3M9YXhpb3Njb21tdW5pY2F0b3JzJnVybD1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtY29tbXVuaWNhdG9ycy04YWQwOTU0MC01MmMwLTExZjEtYTM2Ni04MTkyMGJlZWZkYTUuaHRtbD9jaHVuayUzRDIlMjZ1dG1fdGVybSUzRHR3c29jaWFsc2hhcmUlMjNzdG9yeTImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6C853427fa"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
+alt="Tweet this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtOGFkMDk1NDAtNTJjMC0xMWYxLWEzNjYtODE5MjBiZWVmZGE1Lmh0bWw_Y2h1bmslM0QyJTI2dXRtX3Rlcm0lM0RsaXNvY2lhbHNoYXJlJTIzc3RvcnkyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Cd2b361bd"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
+alt="Post to LinkedIn"&gt;&lt;/a&gt;
+&lt;a href="mailto:?subject=From Axios: 👗 Bonus: Experience of a lifetime&amp;body=wp2whqxolhhcc27ve7v4%40kill-the-newsletter.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A👗 Bonus: Experience of a lifetime%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-communicators-8ad09540-52c0-11f1-a366-81920beefda5.html%3Fchunk%3D2%26utm_term%3Demshare%23story2"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
+alt="Email this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtOGFkMDk1NDAtNTJjMC0xMWYxLWEzNjYtODE5MjBiZWVmZGE1Lmh0bWw_Y2h1bms9MiZ1dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBDb21tdW5pY2F0b3JzJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3Mjc3Rvcnky/69bc8cf845e1867b3a0e6da6Bbc80e253"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
+alt="Text this Story"&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;"&gt;
+&lt;p class="bodytext"
+style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;"
+&gt;
+A MESSAGE FROM AXIOS HQ
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5%; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;"&gt;Workshop: Clearer AI messaging&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;img src="https://images.axios.com/dZIp9o2UQG54wEKk6jicpvhFtXo=/2026/05/15/1778850651190.png" alt="" width="600" style="width:100%" /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="15" style="height: 15px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;p&gt;&lt;strong&gt;30% of leaders say AI is making…&lt;/p&gt;&lt;/strong&gt;
+&lt;ul&gt;&lt;li&gt;Communication volume boom.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Clarity and understanding bust.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;…at their organizations. Training employees on communication skills is changing that story. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3NocS5jb20vdHJhaW5pbmcvc21hcnQtYnJldml0eS1hbmQtYWk_dXRtX2NhbXBhaWduPTIxNTk1NDM0LWFpLWNvbW1zJnV0bV9zb3VyY2U9YXhpb3MtY29tbXVuaWNhdG9ycyZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXItYWQmdXRtX2NvbnRlbnQ9c21hcnQtYnJldml0eS1haS1jb21tcy10cmFpbmluZyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6B6bacb39c"&gt;Learn how Smart Brevity training can power clearer, sharper comms across your org. &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5% 10px; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;"&gt;
+2. 📚 Reading list
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;p&gt;&lt;strong&gt;🔍 Google is reinventing search, &lt;/strong&gt;upending its own core business amid an existential threat from AI chatbots, &lt;em&gt;Axios' Ina Fried writes. &lt;/em&gt;It's also an acknowledgment that describing what you're looking for in conversational language is a better way to find information than guessing the right keywords. (&lt;em&gt;&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDUvMjAvZ29vZ2xlLWFpLXNlYXJjaC1hZ2VudHMtY2hhdGJvdHM_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B1ee4b95a" target="_blank"&gt;Axios&lt;/a&gt;&lt;/em&gt;&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDUvMjAvZ29vZ2xlLWFpLXNlYXJjaC1hZ2VudHMtY2hhdGJvdHM_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6C1ee4b95a" target="_blank"&gt;&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👀 Reputation management firm Terakeet&lt;/strong&gt; posted positive content about Goldman Sachs general counsel Kathryn Ruemmler in an effort to be above negative content about her association with Jeffrey Epstein. (&lt;em&gt;&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wNS8xNy91cy9wb2xpdGljcy9lcHN0ZWluLXJldW1tbGVyLXJlcHV0YXRpb24tbWFuYWdlbWVudC5odG1sP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Bf32e25af" target="_blank"&gt;New York Times&lt;/a&gt;&lt;/em&gt;&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wNS8xNy91cy9wb2xpdGljcy9lcHN0ZWluLXJldW1tbGVyLXJlcHV0YXRpb24tbWFuYWdlbWVudC5odG1sP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Cf32e25af" target="_blank"&gt;&lt;/a&gt;)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ruemmler declined to comment to the Times. Terakeet co-founder and CEO Mac Cummings told the Times, "Terakeet's technology is built on a simple mandate: organizations must tell their own story. If they do not, third-party bias combined with generative AI will shape it for them."&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;📊 Americans' favorite brands&lt;/strong&gt; this year are perceived as more politically neutral, &lt;em&gt;Axios' Margaret Talev writes from the latest Axios Harris Poll 100 reputation rankings&lt;/em&gt;. (&lt;em&gt;&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDUvMjAvYXhpb3MtaGFycmlzLXBvbGwtMTAwLW5ldXRyYWwtYnJhbmRzP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6B6acccb07" target="_blank"&gt;Axios&lt;/a&gt;&lt;/em&gt;&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDUvMjAvYXhpb3MtaGFycmlzLXBvbGwtMTAwLW5ldXRyYWwtYnJhbmRzP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6C6acccb07" target="_blank"&gt;&lt;/a&gt;)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Explore the full &lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDUvMTkvMjAyNi1heGlvcy1oYXJyaXMtcG9sbC0xMDAtcmVwdXRhdGlvbi1yYW5raW5ncz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B381ad214" target="_blank"&gt;Axios Harris Poll 100 rankings&lt;/a&gt; and methodology.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;🗃️ Investors don't always reward companies &lt;/strong&gt;that tie layoffs to AI adoption, according to a recent CNBC analysis. (&lt;em&gt;&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuY25iYy5jb20vMjAyNi8wNS8xNy9haS1yZWxhdGVkLWxheW9mZnMtYS1ib29zdC1mb3Itc3RvY2tzLW5vdC1uZWNlc3NhcmlseS5odG1sP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Bc6f33edb" target="_blank"&gt;CNBC&lt;/a&gt;&lt;/em&gt;&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuY25iYy5jb20vMjAyNi8wNS8xNy9haS1yZWxhdGVkLWxheW9mZnMtYS1ib29zdC1mb3Itc3RvY2tzLW5vdC1uZWNlc3NhcmlseS5odG1sP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6Cc6f33edb" target="_blank"&gt;&lt;/a&gt;)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Wall Street Journal's layoff tracker also shows job cuts spreading to industries beyond tech as companies like Starbucks, Walmart, and Porsche reduce their workforces. (&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cud3NqLmNvbS9lY29ub215L2pvYnMvbGF5b2Zmcy0yMDI2LXRyYWNrZXItNzg0ZWE2OWY_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6Ba2d3cba9" target="_blank"&gt;&lt;em&gt;WSJ&lt;/em&gt;&lt;/a&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 20px 3.5% 25px 3.5%;"&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtY29tbXVuaWNhdG9ycy04YWQwOTU0MC01MmMwLTExZjEtYTM2Ni04MTkyMGJlZWZkYTUuaHRtbD9jaHVuayUzRDMlMjZ1dG1fdGVybSUzRGZic29jaWFsc2hhcmUlMjNzdG9yeTMmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6D6ebc75fe"
+style="display: inline-block;"&gt;&lt;img width="32" height="32" style="border: none" target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
+alt="Share on Facebook"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0lRjAlOUYlOTMlOUElMjBSZWFkaW5nJTIwbGlzdCZoYXNodGFncz1heGlvc2NvbW11bmljYXRvcnMmdXJsPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9uZXdzbGV0dGVycy9heGlvcy1jb21tdW5pY2F0b3JzLThhZDA5NTQwLTUyYzAtMTFmMS1hMzY2LTgxOTIwYmVlZmRhNS5odG1sP2NodW5rJTNEMyUyNnV0bV90ZXJtJTNEdHdzb2NpYWxzaGFyZSUyM3N0b3J5MyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6D1830ab9c"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
+alt="Tweet this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtOGFkMDk1NDAtNTJjMC0xMWYxLWEzNjYtODE5MjBiZWVmZGE1Lmh0bWw_Y2h1bmslM0QzJTI2dXRtX3Rlcm0lM0RsaXNvY2lhbHNoYXJlJTIzc3RvcnkzJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6D9230fa4d"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
+alt="Post to LinkedIn"&gt;&lt;/a&gt;
+&lt;a href="mailto:?subject=From Axios: 📚 Reading list&amp;body=wp2whqxolhhcc27ve7v4%40kill-the-newsletter.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A📚 Reading list%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-communicators-8ad09540-52c0-11f1-a366-81920beefda5.html%3Fchunk%3D3%26utm_term%3Demshare%23story3"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
+alt="Email this Story"&gt;&lt;/a&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWNvbW11bmljYXRvcnMtOGFkMDk1NDAtNTJjMC0xMWYxLWEzNjYtODE5MjBiZWVmZGE1Lmh0bWw_Y2h1bms9MyZ1dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBDb21tdW5pY2F0b3JzJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3Mjc3Rvcnkz/69bc8cf845e1867b3a0e6da6Bc1878b7c"
+style="display: inline-block; margin-left: 7px"&gt;&lt;img width="32" height="32" style="border: none"
+target="_blank"
+src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
+alt="Text this Story"&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;"&gt;
+&lt;p class="bodytext"
+style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;"
+&gt;
+A MESSAGE FROM AXIOS HQ
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 20px 3.5%; line-height: 1.5;"&gt;
+&lt;span class="bodytext hed" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;"&gt;Workshop: Clearer AI messaging&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;img src="https://images.axios.com/dZIp9o2UQG54wEKk6jicpvhFtXo=/2026/05/15/1778850651190.png" alt="" width="600" style="width:100%" /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="15" style="height: 15px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;"&gt;
+&lt;p&gt;&lt;strong&gt;30% of leaders say AI is making…&lt;/p&gt;&lt;/strong&gt;
+&lt;ul&gt;&lt;li&gt;Communication volume boom.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;Clarity and understanding bust.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;…at their organizations. Training employees on communication skills is changing that story. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3NocS5jb20vdHJhaW5pbmcvc21hcnQtYnJldml0eS1hbmQtYWk_dXRtX2NhbXBhaWduPTIxNTk1NDM0LWFpLWNvbW1zJnV0bV9zb3VyY2U9YXhpb3MtY29tbXVuaWNhdG9ycyZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXItYWQmdXRtX2NvbnRlbnQ9c21hcnQtYnJldml0eS1haS1jb21tcy10cmFpbmluZyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6C6bacb39c"&gt;Learn how Smart Brevity training can power clearer, sharper comms across your org. &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="post-text" style="padding: 20px 3.5% 10px 3.5%; margin: 0; line-height: 1.75; border-bottom: 10px solid #f5f5f5; font-size: 16px; color: #222222; letter-spacing: -0.1px; font-family: Georgia, serif;"&gt;
+&lt;p&gt;&lt;em&gt;Thanks for reading! Next week you'll hear from Steve Dowling, who previously led communications at Apple and was OpenAI's first communications hire.&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td
+class="hq-cta"
+style="
+padding: 24px 4% 24px 4%;
+margin: 0;
+line-height: 1.75;
+font-size: 16px;
+color: #222222;
+letter-spacing: -0.1px;
+font-family: Arial, sans-serif;
+"
+&gt;
+&lt;table
+width="100%"
+style="margin: 0 auto; width: 100%"
+cellspacing="0"
+cellpadding="0"
+&gt;
+&lt;tr&gt;
+&lt;td style="font-size: 0"&gt;
+&lt;img
+src=https://static.axios.com/img-email/smart-brevity.gif
+style="width: 100%; max-width: 87px; min-width: 64px"
+border="0"
+alt=HQ
+width="87"
+/&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;table
+width="100%"
+style="max-width: 600px; margin: 0 auto; width: 100%"
+cellspacing="0"
+cellpadding="0"
+&gt;
+&lt;tr&gt;
+&lt;td style="padding-left: 20px; font-family: 'NB International Pro', 'Helvetica', 'Helvetica Neue'" class="hq-cta-text"&gt;
+&lt;div style="font-size: 17px; color: #333335" class="hq-cta-text-header"&gt;👆 Like this comms style and format?&lt;/div&gt;&lt;div style="padding-top: 6px; font-size: 14px; color: #656568; line-height: 1.5" class="hq-cta-text-body"&gt;It's called Smart Brevity®. &lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3NocS5jb20vZGVtbz91dG1fc291cmNlPWF4aW9zLW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YXhpb3NocS1ubC1mb290ZXImc3RyZWFtPXRvcA/69bc8cf845e1867b3a0e6da6B60161e9d"&gt;Bring it to your org&lt;/a&gt; — via hands-on training or internal comms software — to harness its power and impact.&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;!-- End email content --&gt;
+&lt;!-- Start footer --&gt;
+&lt;table style="max-width:600px; margin: 0 auto; width: 100%;" cellspacing="0" cellpadding="0"&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 20px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 0 5%; line-height: 1.75;"&gt;
+&lt;span class="bodytext" style="font-size: 12px; line-height: 1.75; color: #333335;"&gt;
+&lt;p&gt;Axios thanks our partners for supporting our newsletters.
+&lt;br&gt; Sponsorship has no influence on editorial content.
+&lt;br&gt;&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2FkdmVydGlzZT91dG1fc291cmNlPWF4aW9zJnV0bV9tZWRpdW09bmwtZm9vdGVyJnV0bV9jYW1wYWlnbj1hZHYtbmwtZm9vdGVyJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B42a5ffa4" style="color: #333335;"&gt;Advertise with us&lt;/a&gt;.&lt;/p&gt;
+&lt;/span&gt;
+&lt;span class="bodytext" style="font-size: 12px; line-height: 1.75; color: #333335;"&gt;
+Axios, PO Box 101060, Arlington VA 22201
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 20px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 0 5%; line-height: 1.2;"&gt;
+&lt;span class="bodytext" style="font-size: 12px; line-height: 1.2; color: #333335;"&gt;
+You received this email because you signed up for newsletters from Axios.&lt;br&gt;
+To stop receiving this newsletter, &lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2FjY291bnQvc3Vic2NyaXB0aW9ucy9jb25maXJtYXRpb24_bmFtZT1BeGlvcyUyMENvbW11bmljYXRvcnMmbGlzdE5hbWU9bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc2lkPTY5YmM4Y2Y4NDVlMTg2N2IzYTBlNmRhNiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6Bb69d3a48" style="color: #333335;"&gt;unsubscribe&lt;/a&gt; or &lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2FjY291bnQvc3Vic2NyaXB0aW9ucz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6B6b4ce58c" style="color: #333335;"&gt;manage your email preferences&lt;/a&gt;.
+&lt;!-- To stop receiving this newsletter, &lt;a href="https://link.axios.com/oc/69bc8cf845e1867b3a0e6da6ra9jw.1tm9/4bda20d0" style="color: #333335;"&gt;unsubscribe&lt;/a&gt; or &lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2FjY291bnQvc3Vic2NyaXB0aW9ucz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2NvbW11bmljYXRvcnMmc3RyZWFtPWJ1c2luZXNz/69bc8cf845e1867b3a0e6da6C6b4ce58c" style="color: #333335;"&gt;manage your email preferences&lt;/a&gt;. --&gt;
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 20px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" style="padding: 0 5%; line-height: 1.2;"&gt;
+&lt;span class="bodytext" style="font-size: 12px; line-height: 1.2; color: #333335;"&gt;
+Was this email forwarded to you?&lt;br&gt;
+&lt;a href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzP3V0bV9zb3VyY2U9bmV3c2xldHRlcl9zaGFyZT91dG1fc291cmNlJTNEZm9yd2FyZGVkX2VtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B5f1e76e1" style="color: #333335;"&gt;Sign up now&lt;/a&gt; to get Axios in your inbox.
+&lt;/span&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 20px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="30" align="center"&gt;
+&lt;p class="bodytext" style="font-size: 12px; line-height: 1.75; color: #333335;"&gt;Follow Axios on social media:&lt;/p&gt;
+&lt;a target="_blank" href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2F4aW9zbmV3cy8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B3eb34b37"&gt;&lt;img src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" height="32" alt="Axios on Facebook" style="border: 0; padding-right: 20px;" /&gt;&lt;/a&gt;
+&lt;a target="_blank" href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cudHdpdHRlci5jb20vYXhpb3MvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zY29tbXVuaWNhdG9ycyZzdHJlYW09YnVzaW5lc3M/69bc8cf845e1867b3a0e6da6B31c0e24b"&gt;&lt;img src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" height="32" alt="Axios on X" style="border: 0; padding-right: 20px;" /&gt;&lt;/a&gt;
+&lt;a target="_blank" href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9heGlvcy8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6Bb1f8dbb1"&gt;&lt;img src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-instagram-circle-border.png" height="32" alt="Axios on Instagram" style="border: 0; padding-right: 20px;" /&gt;&lt;/a&gt;
+&lt;a target="_blank" href="https://link.axios.com/click/45828572.85041/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvYXhpb3MtbWVkaWE_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Njb21tdW5pY2F0b3JzJnN0cmVhbT1idXNpbmVzcw/69bc8cf845e1867b3a0e6da6B480cd03b"&gt;&lt;img src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" height="32" alt="Axios on LinkedIn" style="border: 0;" /&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="20" style="height: 20px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height="70" style="height: 70px; font-size: 0;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;!-- End footer --&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;div class="gmailfix" style="white-space:nowrap; font:15px courier; line-height:0;"&gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;/div&gt;
+&lt;a style="color: #f5f5f5" href=https://link.axios.com/oc/69bc8cf845e1867b3a0e6da6ra9jw.1tm9/4bda20d0&gt; &lt;/a&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 
